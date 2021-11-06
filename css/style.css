@@ -53,3 +53,11 @@ h1 {
 #progress {
   margin-left: 10px;
 }
+@media screen and (max-width: 800px) {
+  .screen {
+    width: 90%;
+  }
+  .controls {
+    width: 90%;
+  }
+}
